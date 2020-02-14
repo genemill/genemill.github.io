@@ -1,10 +1,8 @@
-# About
+# 关于
 
 目录:
 
 TOC {:toc}
-
-
 Basic formatting
 You can use italics, bold, code font text, and create links. Here's a footnote [^1]. Here's a horizontal rule:
 
